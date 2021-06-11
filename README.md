@@ -31,7 +31,7 @@ Skills : `Java`, `MVC`, `Activity`, `Fragment`, `Listener` interfaces, `Recycler
 
 - Understand how to communicate between `RecyclerView.Adapter`, `Fragment` and `Activity`:
 
-[![OpenClassrooms Adapter, Fragment & Activity communication](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassroom_Activity_Fragment_Communication)](https://github.com/NinoDLC/OpenClassroom_Activity_Fragment_Communication)
+[![OpenClassrooms Adapter, Fragment & Activity communication](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_Activity_Fragment_Communication)](https://github.com/NinoDLC/OpenClassrooms_Activity_Fragment_Communication)
 
 
 #### Resources for Project 4 : Ma Réu 
@@ -39,15 +39,15 @@ Skills : `Java`, `MVVM`, `LiveData`, `Material Design`, `Unit Testing`, `Espress
 
 - Solution:
 
-[![OpenClassrooms_P4](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_P4_Example)](https://github.com/NinoDLC/OpenClassrooms_P4_Example)
+[![OpenClassrooms_P4](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_P4_MaReu_Example)](https://github.com/NinoDLC/OpenClassrooms_P4_MaReu_Example)
 
 - Understanding `LiveData` `Transformations`:
 
-[![OpenClassrooms_LiveData_Transformations](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassroom_LiveData_Transformation_Unit_Testing)](https://github.com/NinoDLC/OpenClassroom_LiveData_Transformation_Unit_Testing)
+[![OpenClassrooms_LiveData_Transformations](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_LiveData_Transformation_Unit_Testing)](https://github.com/NinoDLC/OpenClassrooms_LiveData_Transformation_Unit_Testing)
 
 - Understanding `MediatorLiveData`:
 
-[![OpenClassrooms_MediatorLiveData](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassroom_MediatorLiveData_Example)](https://github.com/NinoDLC/OpenClassroom_MediatorLiveData_Example)
+[![OpenClassrooms_MediatorLiveData](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_MediatorLiveData_Example)](https://github.com/NinoDLC/OpenClassrooms_MediatorLiveData_Example)
 
 #### Resources for Project 5 : Cleanup
 Skills : `Java`, `MVVM`, `LiveData`, `AsyncTask`, `Room`, `SQL`, `Unit Testing`, `Espresso Tests`
