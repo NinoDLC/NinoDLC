@@ -55,3 +55,11 @@ Skills : `Java`, `MVVM`, `LiveData`, `AsyncTask`, `Room`, `SQL`, `Unit Testing`,
 - Understanding `AsyncTask`:
 
 [![OpenClassrooms_AsyncTask](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_LiveData_AsyncTask_Unit_Testing)](https://github.com/NinoDLC/OpenClassrooms_LiveData_AsyncTask_Unit_Testing)
+
+
+#### Resources for Project 7 : Go4Lunch
+Skills : `Java`, `MVVM`, `LiveData`, `Retrofit`, `Google Places Web API (Nearby / Details)`, `Google Maps SDK`, `Firebase`, `Firestore`, `NoSQL`, `OAuth`, `FusedLocationProvider`, `Unit Testing`, `Espresso Tests`
+
+- Understanding `FusedLocationProvider` in a `MVVM` architecture using `LiveData`:
+
+[![OpenClassrooms_GPS_Location_MVVM](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_GPS_Location_MVVM)](https://github.com/NinoDLC/OpenClassrooms_GPS_Location_MVVM)
