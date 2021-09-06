@@ -35,7 +35,7 @@ Skills : `Java`, `MVC`, `Activity`, `Fragment`, `Listener` interfaces, `Recycler
 
 - Refactoring the project 3 in `MVVM` (was initialy in MVC) :
 
-[![OpenClassrooms P3 in MVVM](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_P3_Entrevoisins_Example)](https://github.com/NinoDLC/OpenClassrooms_P3_Entrevoisins_Example)
+[![OpenClassrooms P3 in MVVM](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_P3_Entrevoisins_MVVM_Example)](https://github.com/NinoDLC/OpenClassrooms_P3_Entrevoisins_MVVM_Example)
 
 
 #### Resources for Project 4 : Ma Réu 
