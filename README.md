@@ -45,9 +45,9 @@ Skills : `Java`, `MVVM`, `LiveData`, `Material Design`, `Unit Testing`, `Espress
 
 [![OpenClassrooms_P4](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_P4_MaReu_Example)](https://github.com/NinoDLC/OpenClassrooms_P4_MaReu_Example)
 
-- Understanding `LiveData` `Transformations`:
+- Understanding `LiveData` `Transformations.map()`:
 
-[![OpenClassrooms_LiveData_Transformations](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_LiveData_Transformation_Unit_Testing)](https://github.com/NinoDLC/OpenClassrooms_LiveData_Transformation_Unit_Testing)
+[![OpenClassrooms_LiveData_Transformations.map()](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_LiveData_Transformation_Unit_Testing)](https://github.com/NinoDLC/OpenClassrooms_LiveData_Transformation_Unit_Testing)
 
 - Understanding `MediatorLiveData`:
 
@@ -55,6 +55,14 @@ Skills : `Java`, `MVVM`, `LiveData`, `Material Design`, `Unit Testing`, `Espress
 
 #### Resources for Project 5 : Cleanup
 Skills : `Java`, `MVVM`, `LiveData`, `AsyncTask`, `Room`, `SQL`, `Unit Testing`, `Espresso Tests`
+
+- Solution:
+
+[![OpenClassrooms_P5](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_P5_Todoc_Example)](https://github.com/NinoDLC/OpenClassrooms_P5_Todoc_Example)
+
+- Understanding `LiveData` `Transformations.switchMap()`:
+
+[![OpenClassrooms_LiveData_Transformations.switchMap()](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_SwitchMap_Example)](https://github.com/NinoDLC/OpenClassrooms_SwitchMap_Example)
 
 - Understanding `AsyncTask`:
 
