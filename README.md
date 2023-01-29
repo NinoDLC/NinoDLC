@@ -6,22 +6,6 @@
 
 I'm currently working for **Radio France** [Android application](https://play.google.com/store/apps/details?id=com.radiofrance.radio.radiofrance.android). Full **Kotlin**, **MVVM** and **Flow**. That's the stuff ⭐ !
 
-### Starred Repositories
-
-If you're interested in how to use **Koltin Flows** with **Android** without using LiveData to expose data to the view but still respecting the **Lifecycle**, check this repository:
-
-[![Kotlin Flow to the View Card](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=Kotlin_Flow_To_The_View)](https://github.com/NinoDLC/Kotlin_Flow_To_The_View)
-
-
-A simple project to showcase some concepts around **Clean Architecture**, Kotlin's Coroutine **`suspend` functions** and **`viewModelScope`**:
-
-[![Kotlin MVVM Demo](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=MVVM_Clean_Archi)](https://github.com/NinoDLC/MVVM_Clean_Archi)
-
-
-Improvement on Material Calendar Date Range Picker:
-
-[![Custom Range CalendarView](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=CustomRangeCalendarView)](https://github.com/NinoDLC/CustomRangeCalendarView)
-
 ### Mentoring
 
 Also, I'm a Mentor for **OpenClassrooms**. I do a lot of mini-projects to showcase a new technology students have to learn. Most of them are in *Java* because OpenClassrooms won't understand *Kotlin* is the future for Android. Yet, Java a good tool to learn quickly OOP and Android. 
@@ -45,28 +29,33 @@ Skills : `Java`, `MVVM`, `LiveData`, `Material Design`, `Unit Testing`, `Espress
 
 [![OpenClassrooms_P4](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_P4_MaReu_Example)](https://github.com/NinoDLC/OpenClassrooms_P4_MaReu_Example)
 
-- Understanding `LiveData` `Transformations.map()`:
+- The most basic MVVM application:
 
-[![OpenClassrooms_LiveData_Transformations.map()](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_LiveData_Transformation_Unit_Testing)](https://github.com/NinoDLC/OpenClassrooms_LiveData_Transformation_Unit_Testing)
+[![OpenClassrooms_MicroApplication](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_MicroApplication)](https://github.com/NinoDLC/OpenClassrooms_MicroApplication)
 
 - Understanding `MediatorLiveData`:
 
 [![OpenClassrooms_MediatorLiveData](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_MediatorLiveData_Example)](https://github.com/NinoDLC/OpenClassrooms_MediatorLiveData_Example)
 
-#### Resources for Project 5 : Cleanup
+
+#### Resources for Project 5 : Todoc
 Skills : `Java`, `MVVM`, `LiveData`, `AsyncTask`, `Room`, `SQL`, `Unit Testing`, `Espresso Tests`
 
 - Solution:
 
 [![OpenClassrooms_P5](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_P5_Todoc_Example)](https://github.com/NinoDLC/OpenClassrooms_P5_Todoc_Example)
 
+- Solution (in Kotlin):
+
+[![OpenClassrooms_P5 (in Kotlin)](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_P5_TodoK_Example)](https://github.com/NinoDLC/OpenClassrooms_P5_TodoK_Example)
+
 - Understanding `LiveData` `Transformations.switchMap()`:
 
 [![OpenClassrooms_LiveData_Transformations.switchMap()](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_SwitchMap_Example)](https://github.com/NinoDLC/OpenClassrooms_SwitchMap_Example)
 
-- Understanding `AsyncTask`:
+- Understanding how is it possible to block `Threads` with `LiveData`:
 
-[![OpenClassrooms_AsyncTask](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_LiveData_AsyncTask_Unit_Testing)](https://github.com/NinoDLC/OpenClassrooms_LiveData_AsyncTask_Unit_Testing)
+[![OpenClassrooms_BlockingThreadLiveData](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_BlockingThreadLiveData)](https://github.com/NinoDLC/OpenClassrooms_BlockingThreadLiveData)
 
 
 #### Resources for Project 7 : Go4Lunch
@@ -75,3 +64,26 @@ Skills : `Java`, `MVVM`, `LiveData`, `Retrofit`, `Google Places Web API (Nearby 
 - Understanding `FusedLocationProvider` in a `MVVM` architecture using `LiveData`:
 
 [![OpenClassrooms_GPS_Location_MVVM](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_GPS_Location_MVVM)](https://github.com/NinoDLC/OpenClassrooms_GPS_Location_MVVM)
+
+- Understanding `Paging`: 
+
+[![OpenClassrooms_Paging_Example](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_Paging_Example)](https://github.com/NinoDLC/OpenClassrooms_Paging_Example)
+
+
+#### Resources for Project 9 : RealEstateManager
+Skills : `Kotlin`, `MVVM`, `Flows`, `LiveData`, `SingleLiveEvent`, `Master/Detail`, `Multiple configurations (tablet)`
+
+- How to do Master / Details UX without Jetpack Nagivation:
+
+[![OpenClassrooms_Master_Detail_MVVM](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_Master_Detail_MVVM)](https://github.com/NinoDLC/OpenClassrooms_Master_Detail_MVVM)
+
+
+#### Diverse resources for all courses
+
+- How to inject mocks or get dependencies instances during UI tests (Espresso) with Hilt:
+
+[![OpenClassrooms_Hilt_UI_Test](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_Hilt_UI_Test)](https://github.com/NinoDLC/OpenClassrooms_Hilt_UI_Test)
+
+- Old P3 - MoodTracker, which uses Lottie to animate the smiley throught the scrolling:
+
+[![OpenClassrooms_P3_Mood_Tracker_Example](https://github-readme-stats.vercel.app/api/pin/?username=NinoDLC&repo=OpenClassrooms_P3_Mood_Tracker_Example)](https://github.com/NinoDLC/OpenClassrooms_P3_Mood_Tracker_Example)
